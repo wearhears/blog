@@ -1,15 +1,15 @@
 ---
-title: Dreams
+title: Challenge
 subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: challenge.jpg
+thumbnail: challenge.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: According to a World Health Organization study, more than 360 million adults around the world have disabling hearing loss. Hearing loss is a serious condition affecting people and adamantly affecting their quality of living. Coincidentally, many individuals in the age bracket over 60 likewise suffer from a condition commonly known as forgetfulness. This health condition affects several personal routines that elderlies are supposed to do, including taking medicines on time.
 
 ---
