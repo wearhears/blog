@@ -1,5 +1,7 @@
 url: "http://"
-baseurl: /blog/
+baseurl: /
+source: .
+destination: ./_site
 
 # Site settings
 title: Wear Hears
